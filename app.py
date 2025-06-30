@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 st.set_page_config(page_title="Free Sitemap Generator", layout="centered")
 
-st.title("🗺️ Free Sitemap Generator Tool")
+st.title("Sitemap Generator Tool")
 
 urls_text = st.text_area("Paste URLs (one per line)", height=250)
 
